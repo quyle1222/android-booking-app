@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8237701971",
+    "project_id": "projectforlearning-c9f14",
+    "storage_bucket": "projectforlearning-c9f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8237701971:android:243b646ff9096a622f1fa6",
+        "android_client_info": {
+          "package_name": "com.example.bookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8237701971-udul07tqha8s9h784veb43h42jt8rsq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9r1qND84nvJmib5rVBYPaRJIK3Uzl9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8237701971-udul07tqha8s9h784veb43h42jt8rsq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
